@@ -1,0 +1,43 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Local configuration
+*.env
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.sqlite
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
